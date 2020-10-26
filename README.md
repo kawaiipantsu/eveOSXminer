@@ -48,7 +48,7 @@ These tools are ment to help you out on your daily job, as a miner we work hard 
 
 > But please note that CPP and EVE Online do not allow any third party applications or scripting to be done to their game or to change the way it was intented to be played. So even if these tools are only ment to be support, they are in violation of their rules. So please only use them if you know the consequeces.
 
-Please refere to [EVE Online Community thord party polices](https://community.eveonline.com/support/policies/third-party-policies-en/)
+Please refere to [EVE Online Community third party polices](https://community.eveonline.com/support/policies/third-party-policies-en/)
 
 # Developing and Contributing
 
