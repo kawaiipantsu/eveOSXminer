@@ -58,5 +58,5 @@ Please refere to the [Contribution Document](https://github.com/kawaiipantsu/eve
 
 # Licensing
 
-See [LICENSE](https://github.com/kawaiipantsu/eveOSXminer/blob/master/LICENSE) file. eveOSCminer is licensed by KawaiiPantsu under the GNU license. KawaiiPantsu can be contacted via github.
+See [LICENSE](https://github.com/kawaiipantsu/eveOSXminer/blob/master/LICENSE) file.
 
